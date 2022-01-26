@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem; /* atas bawh 2 rem, kri kanan 1 rem */
+  background-color: #d8c9c3;
+}
+
+#projects {
+  background-color: #d8c9c3;
+}
+
+.bg-brown {
+  background-color: #a52a2a;
+}
+
+section {
+  padding-top: 5rem; /* pas ke direct kesni, jadi pas keliatannya */
+}
